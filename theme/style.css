@@ -1,0 +1,21 @@
+/*!
+Theme Name: DevTemplate
+Author: wooglie
+Author URI: https://github.com/wooglie
+Description: Base theme for development
+Version: 1.0.0
+License: GNU General Public License v2 or later
+Text Domain: DevTemplate
+*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
